@@ -1,2 +1,8 @@
 notebook
 uncompyle6
+numpy
+locust
+uvicorn
+fastapi
+flask
+asyncio
